@@ -14,5 +14,5 @@ Three coloumn version for 1920 width resolutions: steamcommunity.com/sharedfiles
 
 (Changenote #1: fixed Naval Deployment Window, thank you NicaEM for your bugreport!)
 
-![](https://github.com/metzbernhard/hoi4-3columnproductionmenu/blob/master/screen2.jpg)
-![](https://github.com/metzbernhard/hoi4-3columnproductionmenu/blob/master/screen1.jpg)
+![](https://github.com/metzbernhard/hoi4-2columnproductionmenu/blob/master/screen2.jpg)
+![](https://github.com/metzbernhard/hoi4-2columnproductionmenu/blob/master/screen1.jpg)
