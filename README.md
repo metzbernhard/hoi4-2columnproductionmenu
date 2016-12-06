@@ -13,3 +13,6 @@ Needs a resolution with at least 1440px width.
 Three coloumn version for 1920 width resolutions: steamcommunity.com/sharedfiles/filedetails/?id=756097675 
 
 (Changenote #1: fixed Naval Deployment Window, thank you NicaEM for your bugreport!)
+
+![](https://github.com/metzbernhard/hoi4-3columnproductionmenu/blob/master/screen2.jpg)
+![](https://github.com/metzbernhard/hoi4-3columnproductionmenu/blob/master/screen1.jpg)
